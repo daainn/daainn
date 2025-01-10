@@ -18,10 +18,9 @@
           <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white">
           <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white">
           <br/></div>
-    </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=DAIN's GITHUB&bg_color=60,c794bc,9d1515&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAIN's GITHUB&layout=compact&bg_color=60,c794bc,9d1515&title_color=000000&text_color=000000"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=daainn&bg_color=60,f0d5d5,9c5e8f&title_color=000000&text_color=000000"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daainn&layout=compact&bg_color=60,f0d5d5,9c5e8f&title_color=000000&text_color=000000"
            /> </div> 
     </div>
-    
+
