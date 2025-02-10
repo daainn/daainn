@@ -3,7 +3,13 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hi There </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 우와우 </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 안녕하세요,
+
+안주하는 것을 두려워하며, 이를 원동력으로 스스로를 발전시키는 주니어 데이터 분석가 이다인입니다.
+
+- **올바른 지표를 활용한 데이터 분석**으로 긍정적인 변화의 방향을 제시하고자 합니다.
+- 누구나 납득할 수 있도록, **분석 결과를 명확하게 시각화**하는 데 최선을 다하고 있습니다.
+- 데이터에서 새로운 인사이트를 발견하는 것에 그치지 않고, **분석 결과에 대한 깊이 있는 궁금증**을 통해 본질로 다가가고자 합니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
