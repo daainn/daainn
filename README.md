@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  📘 <strong>Path:</strong> Data → AI → LLM  
+  📘 <strong>Data → AI → LLM </strong>  
   <br>
   🚀 <em>Consistent growth, one step at a time.</em> 👩🏻‍💻
 </p>
