@@ -1,32 +1,76 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fddddd,100:834e7e&height=180&text=DAIN's%20GITHUB&animation=twinkling&fontColor=000000&fontSize=60" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hi There </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 안녕하세요,
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fddddd,100:834e7e&height=180&text=DAIN's%20GITHUB&animation=twinkling&fontColor=000000&fontSize=60" />
+</div>
 
-안주하는 것을 두려워하며, 끊임없이 발전을 추구하는 주니어 데이터 분석가 이다인입니다.
 
-- **올바른 지표를 활용한 데이터 분석**으로 긍정적인 변화의 방향을 제시하고자 합니다.
-- 누구나 납득할 수 있도록, **분석 결과를 명확하게 시각화**하는 데 최선을 다하고 있습니다.
-- 데이터에서 새로운 인사이트를 발견하는 것에 그치지 않고, **분석 결과에 대한 깊이 있는 궁금증**을 통해 본질로 다가가고자 합니다. </div> 
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
-          <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white">
-          <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white">
-          <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white">
-          <img src="https://img.shields.io/badge/Matlab-0076a8?style=flat&logo=Matlab&logoColor=white">
-          <br/></div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=daainn&bg_color=60,f0d5d5,9c5e8f&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daainn&layout=compact&bg_color=60,f0d5d5,9c5e8f&title_color=000000&text_color=000000"
-           /> </div> 
-    </div>
+<p align="center">
+  📘 <strong>Path:</strong> Data → AI → LLM  
+  <br>
+  🚀 <em>Consistent growth, one step at a time.</em> 👩🏻‍💻
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/DATA-007ACC?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-7AC143?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM-7928CA?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+<h4 align="center">💻 Language & Web</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matlab-0076a8?style=flat&logo=mathworks&logoColor=white"/>
+</p>
+
+<h4 align="center">🔧 Backend / Infra</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
+</p>
+
+<h4 align="center">🤖 AI / LLM</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=flat"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-4B0082?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QLoRA-F5DEB3?style=flat"/>
+  <img src="https://img.shields.io/badge/PEFT-FFB6C1?style=flat"/>
+</p>
+
+<h4 align="center">📊 Data / Visualization</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+</p>
+
+<h4 align="center">🔧 Tools & Collaboration</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+</p>
+
+---
+
+## 🏅 GitHub Stats
+
+<p align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=daainn&show_icons=true&bg_color=f0d5d5&title_color=000000&text_color=000000&hide_border=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daainn&layout=compact&bg_color=f0d5d5&title_color=000000&text_color=000000&hide_border=true&langs_count=6" />
+</p>
